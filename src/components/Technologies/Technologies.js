@@ -63,6 +63,13 @@ const Technologies = () => (
                 width={70}
                 height={70}
               />
+              <Image
+                src="/icons/nextjs.svg"
+                alt="NextJs Icon"
+                title="Next Js"
+                width={70}
+                height={70}
+              />
             </List>
           </div>
         </ListContainer>
@@ -167,6 +174,13 @@ const Technologies = () => (
                 src="/icons/graphql.svg"
                 alt="React.js Icon"
                 title="graphql"
+                width={70}
+                height={70}
+              />
+              <Image
+                src="/icons/docker.svg"
+                alt="Docker Icon"
+                title="Docker"
                 width={70}
                 height={70}
               />

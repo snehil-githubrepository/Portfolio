@@ -9,8 +9,8 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: 30, text: "Projects" },
-  { number: 700, text: "Leetcode Problems Solved" },
   { number: 450, text: "GFG Problems Solved" },
+  { number: 700, text: "Leetcode Problems Solved" },
   { number: 1800, text: "Codechef Ratings" },
 ];
 

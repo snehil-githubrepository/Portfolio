@@ -52,12 +52,21 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
+
       <SectionText style={{ fontFamily: "cursive" }}>
+        <hr />
+        <br />
         📌 UG at Vellore Institute of Technology. <br />
         📌 B.Tech in Computer Science & Engineering. <br />
-        📌 I am Incredibly passionate About Software Development. I love to
-        explore New Technologies. <br />
-        📌 Proficient in C++, Javascript, React, Node, <br />
+        📌 I expertise in React.js and Next.js, creating dynamic and
+        user-friendly applications. Proficient in the MERN stack <br />
+        📌I excel in database design, RESTful APIs, and front-end development. I
+        prioritize clean code, continuous learning, and knowledge sharing
+        through blogging.
+        <br />
+        📌 Let's collaborate and bring your web projects to life! <br />
+        📌 Proficient in C++, Javascript, React, Node, Next
+        <br />
         <br />
         <hr />
         <span style={{ fontFamily: "-moz-initial", fontSize: "3.5rem" }}>
